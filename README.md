@@ -7,6 +7,13 @@ I combine **marketing strategy, analytical thinking, and data skills** to transf
 Currently expanding my technical skills in **SQL, Python, and data visualization** through hands-on projects and analytical case studies.
 
 ---
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-Pandas-yellow)
+![Data Analysis](https://img.shields.io/badge/Data-Analytics-green)
+![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-orange)
+![Visualization](https://img.shields.io/badge/Data-Visualization-purple)
+
+---
 
 # Skills
 
